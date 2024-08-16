@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Payal13052003
+- 👋 Hi, I’m @PayalGupta
 - 👀 I’m interested in Data science 
 - 🌱 I’m currently learning MCA 
 - 💞️ I’m looking to collaborate on GOOGLE 
